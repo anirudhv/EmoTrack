@@ -4,6 +4,9 @@ EmoTrack is a web browser based app that measures human emotions through classif
 ![Charted facial expressions](example-chart.png)
 
 # Development
+This web app is a react project, intended to be deployed on netlify.
+
 Install Dependencies `npm install`
+
 Run locally `npm run start`
 
