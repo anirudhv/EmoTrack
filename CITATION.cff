@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EmoTrack
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anirudh
+    family-names: Venkataraman
+    affiliation: 'University of California, Santa Cruz'
+repository-code: 'https://github.com/anirudhv/EmoTrack'
+keywords:
+  - affective computing
